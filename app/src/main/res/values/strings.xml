@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <!-- declare String values for spineer-->
+    <string name="sort_by" translatable="true">Sort by : </string>
+    <string name="most_popular" translatable="true">Most Popular</string>
+    <string name="top_rated" translatable="true">Top Rated</string>
+    <string name="favourite" translatable="true">Favourite</string>
+
+    <array name="sort_by">
+        <item>@string/most_popular</item>
+        <item>@string/top_rated</item>
+        <item>@string/favourite</item>
+    </array>
+    <!-- declare String values for spineer-->
+
+    <!-- declare String values for Text that user can see-->
+    <string name="rate" translatable="true">Rate = </string>
+    <string name="trailers_text" translatable="true">Trailers :-</string>
+    <string name="overview_text" translatable="true">Overview :-</string>
+    <string name="recommendation_text" translatable="true">Let me Recommend you This Movie</string>
+    <string name="choose_app" translatable="true">Choose One App</string>
+    <string name="offline_mode" translatable="true">You Are Offline</string>
+    <string name="marked_unFavourite" translatable="true">Marked as UnFavourite</string>
+    <string name="marked_Favourite" translatable="true">Marked as Favourite</string>
+    <string name="already_favourite" translatable="true">Already Favourite</string>
+    <string name="unexcepected_error" translatable="true">Sorry,Unexcepected Error</string>
+    <string name="check_connection" translatable="true">Check Your Internet Connection</string>
+    <!-- declare String values for Text that user can see-->
+
+    <!-- declare String values for keys-->
+    <string name="movie_key" translatable="false">MOVIEKEY</string>
+    <string name="review_key" translatable="false">REVIEWKEY</string>
+    <string name="movie_object_key" translatable="false">PARCEKEY</string>
+    <string name="scroll_index_key" translatable="false">INDEXKEY</string>
+    <!-- declare String values for keys-->
+
+</resources>
